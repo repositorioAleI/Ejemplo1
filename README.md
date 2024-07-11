@@ -35,9 +35,7 @@ Tabla 1. Objetos tipo request.
 Instalación.
 Se recomienda dar lectura al documento de instalación y configuración del software para desarrollo de aplicaciones web XAMPP.
 
-https://github.com/miRepositorioGit/tresCapasPhp/blob/main/Referencias/instalacionConfiguracionXampp_V120.pdf
 
-El Diagrama 2, mustra la ruta lógica de instalación local del proyecto: https://github.com/miRepositorioGit/tresCapasPhp/archive/refs/heads/main.zip
 
 C:\xampp
 └──htdocs					← Carpeta global archivos.
@@ -49,13 +47,4 @@ C:\xampp
 	
 Diagrama 2. Árbol de dependencia.
 
-Glosario.
-Actividad.
-Desarrollar el contenido de un glosario de palabras técnicas y un resumen de las mismas. https://github.com/miRepositorioGit/tresCapasPhp/blob/main/Referencias/palabrasClave.txt
 
-Referencias.
- [1]: Ingeniería de software.
- Disponible en:<https://https://es.wikipedia.org/wiki/SOLID/> "Título"
- Consultado:04Jun24.
-[2]: Blancarte, O. (2020). Introducción a la arquitectura de Software. 
-Ciudad de México: Oscar Javier Blancarte Iturral.
